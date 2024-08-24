@@ -17,3 +17,5 @@
 Poc和Exp均来自互联网，仅供交流学习使用，请在虚拟机内测试
 
 Pwned by Seunghyun Lee (Xion, @0x10n), for TyphoonPWN 2024
+
+From：[https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/](https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/)

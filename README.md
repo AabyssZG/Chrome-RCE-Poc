@@ -1,16 +1,14 @@
 ## Chrome-RCE-Poc概述
 
-- 漏洞名称：Google Chrome 沙箱穿越
-- 漏洞编号：多个CVE组合攻击
-- 预警时间：2024-08-23
-- 影响量级：千万级
-- CVSS 3.1分数：8.0
+- 漏洞名称：Google Chrome Type Confusion
 - 威胁类型：代码执行
 - 利用可能性：高
 - POC状态：已公开
 - 在野利用状态：未公开
 - EXP状态：已公开
 - 技术细节状态：已公开
+
+This can be considered a variant bug of CVE-2024-2887 discovered by Manfred Paul and presented in Vancouver 2024.
 
 ## 注明
 
